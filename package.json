@@ -4,7 +4,7 @@
   "description": "rm -rf dist && babel backend -d && cd frontend && npm install && npm run build ",
   "main": "index.js",
   "scripts": {
-    "build":
+
     "start": "nodemon ./index.js"
   },
   "keywords": [],
