@@ -1,10 +1,11 @@
 {
   "name": "new-web-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "rm -rf dist && babel backend -d && cd frontend && npm install && npm run build ",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js"
+
+    "start": "node ./index.js"
   },
   "keywords": [],
   "author": "",
